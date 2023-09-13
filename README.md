@@ -17,7 +17,7 @@ Postman or a similar tool for testing the API
 
 Setup  
 Clone the repository:
-git clone https://github.com/your-username/person-api.git
+git clone https://github.com/oghuanlan-kingsley/person
 cd person-api
 
 Configure the database in "src/main/resources/application.properties" :
